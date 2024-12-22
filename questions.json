@@ -12,7 +12,7 @@
     "question": "Which is the most spoken language in the world?",
     "answers": [
       { "text": "English", "state": true },
-      { "text": "Arbaic", "state": false },
+      { "text": "Arabic", "state": false },
       { "text": "Spanish", "state": false },
       { "text": "Hindi", "state": false }
     ]
@@ -130,8 +130,107 @@
     "answers": [
       { "text": "Dollar", "state": false },
       { "text": "Yen", "state": true },
-      { "text": "Euro Dioxide", "state": false },
+      { "text": "Euro", "state": false },
       { "text": "Pound", "state": false }
+    ]
+  },
+  {
+    "question": "Which animal is known as the King of the Jungle?",
+    "answers": [
+      { "text": "Tiger", "state": false },
+      { "text": "Lion", "state": true },
+      { "text": "Elephant", "state": false },
+      { "text": "Bear", "state": false }
+    ]
+  },
+  {
+    "question": "What is the hottest planet in our solar system?",
+    "answers": [
+      { "text": "Mercury", "state": false },
+      { "text": "Venus", "state": true },
+      { "text": "Earth", "state": false },
+      { "text": "Mars", "state": false }
+    ]
+  },
+  {
+    "question": "How many legs does a spider have?",
+    "answers": [
+      { "text": "6", "state": false },
+      { "text": "8", "state": true },
+      { "text": "10", "state": false },
+      { "text": "12", "state": false }
+    ]
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "answers": [
+      { "text": "China", "state": false },
+      { "text": "Japan", "state": true },
+      { "text": "Thailand", "state": false },
+      { "text": "India", "state": false }
+    ]
+  },
+  {
+    "question": "What is the process plants use to make their food?",
+    "answers": [
+      { "text": "Digestion", "state": false },
+      { "text": "Respiration", "state": false },
+      { "text": "Photosynthesis", "state": true },
+      { "text": "Fermentation", "state": false }
+    ]
+  },
+  {
+    "question": "What is the hardest natural substance on Earth?",
+    "answers": [
+      { "text": "Gold", "state": false },
+      { "text": "Iron", "state": false },
+      { "text": "Diamond", "state": true },
+      { "text": "Silver", "state": false }
+    ]
+  },
+  {
+    "question": "How many teeth does an adult human have?",
+    "answers": [
+      { "text": "28", "state": false },
+      { "text": "30", "state": false },
+      { "text": "32", "state": true },
+      { "text": "34", "state": false }
+    ]
+  },
+  {
+    "question": "Which organ in the human body is responsible for pumping blood?",
+    "answers": [
+      { "text": "Lungs", "state": false },
+      { "text": "Heart", "state": true },
+      { "text": "Liver", "state": false },
+      { "text": "Kidney", "state": false }
+    ]
+  },
+  {
+    "question": "What is the capital city of Australia?",
+    "answers": [
+      { "text": "Sydney", "state": false },
+      { "text": "Melbourne", "state": false },
+      { "text": "Canberra", "state": true },
+      { "text": "Brisbane", "state": false }
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      { "text": "Venus", "state": false },
+      { "text": "Mars", "state": true },
+      { "text": "Jupiter", "state": false },
+      { "text": "Saturn", "state": false }
+    ]
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "answers": [
+      { "text": "H2O", "state": false },
+      { "text": "NaCl", "state": true },
+      { "text": "CO2", "state": false },
+      { "text": "KCl", "state": false }
     ]
   }
 ]
